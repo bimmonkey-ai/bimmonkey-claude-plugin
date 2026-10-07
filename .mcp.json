@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bim-monkey": {
+      "type": "http",
+      "url": "https://mcp.bimmonkey.ai/mcp"
+    }
+  }
+}
