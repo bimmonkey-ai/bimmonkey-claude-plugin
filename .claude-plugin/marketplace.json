@@ -1,7 +1,15 @@
 {
   "name": "bimmonkey",
-  "owner": { "name": "BIM Monkey Inc", "url": "https://bimmonkey.ai" },
+  "owner": {
+    "name": "BIM Monkey Inc",
+    "url": "https://bimmonkey.ai"
+  },
   "plugins": [
-    { "name": "bim-monkey", "source": "./", "description": "Your firm's Revit library, drawing standards and live Revit, inside Claude." }
-  ]
+    {
+      "name": "bim-monkey",
+      "source": "./",
+      "description": "Your firm's Revit library, drawing standards and live Revit, inside Claude."
+    }
+  ],
+  "description": "BIM Monkey plugins for Claude: your firm's Revit library, drawing standards and live Revit."
 }
