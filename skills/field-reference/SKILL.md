@@ -1,6 +1,6 @@
 ---
 name: field-reference
-description: Pull a sheet, detail or project fact from the firm's library on demand — on a site visit, in a meeting, or while drafting. Use when the user names a sheet number, a project, or a detail ("show me A2.1", "find our deck ledger detail", "what sheets does the Baines set have").
+description: Pull a sheet, detail or project fact from the firm's library on demand — on a site visit, in a meeting, or while drafting. Use when the user names a sheet number, a project, or a detail ("show me A2.1", "find our deck ledger detail", "what sheets does the Harbor House set have").
 version: 1.0.0
 ---
 

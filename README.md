@@ -10,11 +10,11 @@ BIM Monkey is a Revit plugin plus a web app that learns how your firm draws: it 
 |---|---|
 | **Permit set QA** | "Check this set against our standards before it goes to intake." |
 | **Standards Q&A** | "How do we name RCP sheets?" "What's our callout convention?" |
-| **Field reference** | "Show me A2.1 from the Baines project." "Find our deck ledger detail." |
-| **Project to-dos** | "Add to the 3421 project: move the W4 tag off the dimension string." |
+| **Field reference** | "Show me A2.1 from the Harbor House project." "Find our deck ledger detail." |
+| **Project to-dos** | "Add to the 2201 project: move the W4 tag off the dimension string." |
 | **Code reference check** | "Verify the code references on the cover sheet against current sources." |
 | **Session log** | "Write up today's session for the daily log / for a case study." |
-| **Export from Revit** | "Export G1.0 from the 3421 model to PDF." (needs the project open in Revit at the firm) |
+| **Export from Revit** | "Export G1.0 from the 2201 model to PDF." (needs the project open in Revit at the firm) |
 
 ## Setup
 
