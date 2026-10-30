@@ -28,6 +28,12 @@ BIM Monkey is a Revit plugin plus a web app that learns how your firm draws: it 
    When the connector asks you to authorize, paste the firm's `bm_` key once.
 3. For live exports and anything that edits a model, the BIM Monkey Revit plugin must be installed and the project open in Revit: https://bimmonkey.ai/install
 
+## What this plugin runs, sends and fetches
+
+- It bundles no code and runs nothing on your machine. The only component is a remote MCP connection to `https://mcp.bimmonkey.ai/mcp` (declared in `.mcp.json`) plus seven Markdown skills that tell Claude how to use it.
+- What leaves your machine: the prompts Claude sends to the connector's tools and, once at authorization, your firm's `bm_` API key, which the server exchanges for an OAuth token. Nothing else is read from your environment.
+- What comes back: your firm's library, standards, memory, project notes and compliance results, and PDF exports you request. See the privacy policy at https://bimmonkey.ai/privacy.html.
+
 ## What the connector can and cannot do
 
 - Reads your firm's library, synthesized standards, firm memory, project notes and compliance results.
