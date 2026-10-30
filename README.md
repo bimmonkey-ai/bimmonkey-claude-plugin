@@ -22,7 +22,7 @@ BIM Monkey is a Revit plugin plus a web app that learns how your firm draws: it 
 2. Add this plugin in Claude → Customize → Plugins, or in Claude Code:
 
    ```
-   /plugin install bim-monkey --marketplace showme2thebike/bimmonkey-claude-plugin
+   /plugin install bim-monkey --marketplace bimmonkey-ai/bimmonkey-claude-plugin
    ```
 
    When the connector asks you to authorize, paste the firm's `bm_` key once.
